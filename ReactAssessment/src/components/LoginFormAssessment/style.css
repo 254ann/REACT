@@ -1,0 +1,23 @@
+.wrapper {
+    margin: 20px;
+  }
+  
+  .row {
+    margin-bottom: 10px;
+  }
+  
+  .errorMessage {
+    color: red;
+  }
+  input{
+    height: 20px;
+    width: 200px;
+  }
+  
+  .button {
+    margin-top: 5px;
+    height: 20px;
+    width: 200px;
+
+  }
+  
